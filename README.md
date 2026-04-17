@@ -1,4 +1,4 @@
-[Project Factory Script Explanation Request - Google Gemini.html](https://github.com/user-attachments/files/26835568/Project.Factory.Script.Explanation.Request.-.Google.Gemini.html)# Automated Project Bootstraping
+# Automated Project Bootstraping
 
 Clone this repository to your local machine:
 <img width="776" height="149" alt="image" src="https://github.com/user-attachments/assets/df465e96-bea9-4ce6-8702-21baaa14985d" />
