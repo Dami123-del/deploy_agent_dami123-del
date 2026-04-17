@@ -1,5 +1,5 @@
 # Automated Project Bootstraping
-
+https://youtu.be/WXiZUFWGvOU
 Clone this repository to your local machine:
 <img width="776" height="149" alt="image" src="https://github.com/user-attachments/assets/df465e96-bea9-4ce6-8702-21baaa14985d" />
 
